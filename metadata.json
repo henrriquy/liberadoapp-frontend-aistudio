@@ -1,0 +1,5 @@
+{
+  "name": "LiberadoApp - Autenticação",
+  "description": "Módulo de autenticação completo para o LiberadoApp, incluindo login, cadastro, recuperação de senha e verificação em duas etapas.",
+  "requestFramePermissions": []
+}
